@@ -6,12 +6,13 @@ A simple Node.js OCR REST API, utilising [Tesseract.js](https://github.com/napth
 
 ## Setting up
 
-Clone the repository, install node dependencies and start the express server:
+Clone the repository, install node dependencies, build the app and start the express server:
 
 ```
 git clone https://github.com/GRudinsky/image-reader.git
 cd image-reader
 npm install
+npm build
 npm start
 ```
 
