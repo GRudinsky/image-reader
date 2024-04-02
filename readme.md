@@ -12,7 +12,7 @@ Clone the repository, install node dependencies, build the app and start the exp
 git clone https://github.com/GRudinsky/image-reader.git
 cd image-reader
 npm install
-npm build
+npm run build
 npm start
 ```
 
